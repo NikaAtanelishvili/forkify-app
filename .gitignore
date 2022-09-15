@@ -1,0 +1,7 @@
+node_modules
+flowcharts
+forkify-flowcharts
+forkify-architecture
+dist
+.parcel-cache
+.prettierrc
